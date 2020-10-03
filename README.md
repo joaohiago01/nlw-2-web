@@ -19,7 +19,6 @@ The project made to connect teachers to students.
    * [About the project](#sunflower-about-the-project)
    * [Features](#key-features)
    * [Technologies](#computer-technologies)
-   * [Pre-Requisites](#scroll-pre-requisites)
    * [Live Demo Netlify](#top-live-demo-netlify)
 <!--te-->
 
@@ -40,10 +39,6 @@ The following tools were used in the construction of the project:
 - [Typescript](https://www.typescriptlang.org/)
 - [React.js](https://reactjs.org/)
 - [Axios](https://github.com/axios/axios)
-
-## :scroll: Pre-Requisites
-
-To clone and run this application, you'll need [Git](https://git-scm.com/), [Yarn](https://yarnpkg.com/) installed on your computer.
 
 ## :top: [Live Demo Netlify](https://proffy-nlw-02.netlify.app/)
 
