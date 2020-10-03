@@ -20,8 +20,7 @@ The project made to connect teachers to students.
    * [Features](#key-features)
    * [Technologies](#computer-technologies)
    * [Pre-Requisites](#scroll-pre-requisites)
-   * [How to use](#construction_worker-how-to-use)
-   * [Live Demo](#top-live-demo)
+   * [Live Demo Netlify](#top-live-demo-netlify)
 <!--te-->
 
 ## :key: Features
@@ -46,27 +45,6 @@ The following tools were used in the construction of the project:
 
 To clone and run this application, you'll need [Git](https://git-scm.com/), [Yarn](https://yarnpkg.com/) installed on your computer and install the [Expo App](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US) on your smartphone.
 
-## :construction_worker: How to use
-
-From your command line:
-
-```bash
- 
-# Clone this repository
-$ git clone https://github.com/joaohiago01/nlw-2-web
-
-# Go into the repository
-$ cd nlw-2-web
-
-# Install dependencies
-$ yarn install
-
-# You need to rewrite the baseURL of the api.ts file in the services folder according to your machine's IP.
-
-# Run the app
-$ yarn start
-
-```
 ## :top: [Live Demo Netlify](https://proffy-nlw-02.netlify.app/)
 
 ## :closed_book: License
