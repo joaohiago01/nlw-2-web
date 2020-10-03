@@ -44,11 +44,12 @@ The following tools were used in the construction of the project:
 ## :scroll: Pre-Requisites
 
 To clone and run this application, you'll need [Git](https://git-scm.com/), [Yarn](https://yarnpkg.com/) installed on your computer.
+
 ## :top: [Live Demo Netlify](https://proffy-nlw-02.netlify.app/)
 
 ## :closed_book: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/joaohiago01/nlw-mobile/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/joaohiago01/nlw-2-web/blob/master/LICENSE) for more information.
 
 ## :rocket: Author
 
